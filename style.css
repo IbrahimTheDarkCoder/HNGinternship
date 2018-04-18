@@ -1,0 +1,154 @@
+/*@import url('https://fonts.googleapis.com/css?family=numans');*/
+.container{
+	top:45px;
+	left:430px;
+	position: absolute;
+	width: auto;
+	height: auto;
+	background: url(background.jpg);
+	background-size: 1370px;
+	background-repeat: no-repeat;
+}
+.form_container{
+	position: relative;
+	width: 481px;
+	height: 548px;
+	background: #FFFFFF;
+	border: 5px solid #F2994A;
+	box-sizing: border-box;
+	box-shadow: 4px 4px 4px 
+		rgba(0, 0, 0, 0.5);
+}
+img{
+	top: 25px;
+	left: 90px;
+	position: relative;
+	width: 280px;
+	height: 157px;
+	background: url(hng.png);
+}
+.nameoflogo{
+	top:-15px;
+	left:160px;
+	position: relative;
+	width: 142px;
+	height: 22px;
+	font-family: Numans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 18px;
+	color: #F2994A;
+}
+.signin1{
+	top:-10px;
+	left:190px;
+	position: relative;
+	width: 86px;
+	height: 29px;
+	font-family: Numans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 24px;
+	color: #333333;
+}
+.username{
+	top:-10px;
+	left:80px;
+	position: relative;
+	width: 150px;
+	height: 31px;
+	font-family: Mada;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 24px;
+	letter-spacing: 0.2em;
+	color: #A04B00;
+}
+.password{
+	top:-15px;
+	left:80px;
+	position: relative;
+	width: : 150px;
+	height: 31px;
+	font-family: Mada;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 24px;
+	letter-spacing: 0.2em;	
+	color: #A04B00;
+}
+.username_container{
+	left:80px;
+	position: relative;
+	width: 313px;
+	height: 62.21px;
+	background: #F2994A;
+	border: 1px solid #A04B00;
+	box-sizing:border-box;
+}
+.password_container{
+	left:80px;
+	position: relative;
+	width: 313px;
+	height: 62.21px;
+	background: #F2994A;
+	border: 1px solid #A04B00;
+	box-sizing:border-box;
+}
+.signin{
+	left: 200px;
+	position: relative;
+	width: 74px;
+	height: 24px;
+	background: #F2994A;
+	border-radius: 2px;
+}
+.signin_text{
+	left: 12px;
+	position: relative;
+	width: 43px;
+	height: 15px;
+	font-family: Numans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.info{
+	left: 90px;
+	position: relative;
+	width: 277px;
+	height: 43px;
+	font-family: Numans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	color: #000000;
+
+}
+.time{
+	top:50px;
+	left: 25px;
+	position: relative;
+	width: 450px;
+	height: 52px;
+	font-family: Mada;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 18px;
+	color:#FFFFFF;
+}
+a{
+	text-decoration: none;
+} 
+.click{
+	color: #F2994A;
+}
